@@ -1,4 +1,4 @@
-# Project-2
+# Project-2-Let Us be a Naturalist
 ## Introduction
 This repository is about the second project **Let Us be a Naturalist** of AI for Mechatronics (MCEN90048), which mainly investigate the fine-grained image classification for iNaturalist 2019 FGVC6 at CVPR 2019.
 
