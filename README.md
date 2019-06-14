@@ -9,4 +9,4 @@ The codes is able to build three CNN models, including InceptionV3, Xception and
 ## Note
 1. In training mode, users can choose to train the three model from scratch or load pre-trained model to continue training. The base weights for InceptionV3, Xception and InceptionResNetV2 are pre-trained on ImageNet.
 
-2
+2. If users want to continue to train the model or get corresbonding CSV file, please make sure the desired weight is put in the ckpt_folder, whose path is define in Assignment2_main.py **ckpt_folder = FLAGS.DEFAULT_OUT + 'trial_{}_{}_{}/'.format(image_size, target_size, drop_out)**.
