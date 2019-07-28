@@ -1,4 +1,4 @@
-# Project-2-Let Us be a Naturalist
+# iNaturalist 2019 Fine-Grained Classification Competition
 ## Introduction
 This repository is investigating the fine-grained image classification for iNaturalist 2019 FGVC6 at CVPR 2019.
 
